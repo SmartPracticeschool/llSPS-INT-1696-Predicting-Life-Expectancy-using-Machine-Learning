@@ -4,4 +4,6 @@ This is a Machine Learning Project that i have completed under Remote Summer Int
 
 In this project the average life expectancy of a human is predicted using machine learning and python. The life expectancy is predicted by training a random forest regressor machine learning model which is trained on the dataset provided by WHO and downloaded from kaggle.com which contains data like alcohol consumption, adult mortality, infant deaths, info related to various diseases, gdp, population, etc for most of the countries of around 10 years.
 
-The project uses various services of IBM cloud. The model is deployed on IBM cloud using Watson machine learning service and IBM Watson Studio. The UI is created using the Node-Red application of IBM cloud and both the UI and Model are integrated to predict the life expectancy for the provided inputs to the Node-Red UI.
+The project uses various services of IBM cloud. The model is deployed on IBM cloud using Watson machine learning service and IBM Watson Studio. The UI is created using the Node-Red application of IBM cloud and both the UI and Model are integrated to predict the life expectancy for the provided inputs to the Node-Red UI.  
+
+I have also done the project using AutoAI experiment of IBM cloud so that the model is automatically prepared by the AutoAI without any  human help and it also trains the model by itself. Thus a person who doesn't know to code can also do the project.  
